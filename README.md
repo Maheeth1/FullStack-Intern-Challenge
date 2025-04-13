@@ -1,5 +1,3 @@
-# This is the final README content
-## Includes info from both main and master branches
 FullStack Intern Coding Challenge
 Tech Stack
 ● Backend: Any one of backend framework from this ExpressJs/Loopback/NestJs
